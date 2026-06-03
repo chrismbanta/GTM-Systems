@@ -54,41 +54,69 @@ Built and launched 3–5 outbound campaigns daily across multiple industries, ma
 
 ---
 
-## How I Work & How Claude Should Work With Me
+## Location & Availability
+Based in Cotonou, Benin (West Africa). Fully open to all timezones — has worked EST and PST extensively. No timezone restrictions.
 
-- **Always deliver complete, importable files** — never partial code snippets. I work in n8n and Clay where I need full JSON files or full markdown docs I can copy and use directly.
-- **Explain things step by step** when I am learning something new. I am building technical mastery, not just getting tasks done — I want to understand what is happening and why.
-- **Be direct and clear** — don't over-explain things I already know, but never skip explanation when something is new territory.
-- **When I make a mistake or something is wrong, tell me.** I want to be corrected so I can learn.
-- **Think long-term** — when giving advice or building things, keep in mind that I am building toward technical mastery, a strong portfolio, and eventually founding or co-founding a company.
+**Target job market:** US-first (SaaS companies, strong compensation). Also open to Europe, Australia, and LATAM. Remote roles preferred.
+
+---
+
+## LinkedIn & Personal Brand
+Active LinkedIn creator for 3 years. Grown from 0 to 13,300+ followers, targeting 20,000 by December. Posts about GTM engineering, automation, and outbound systems. Also does paid brand posts for companies targeting new markets. A separate CONTENT.md file will store content frameworks, voice, and top-performing posts for content creation tasks.
+
+---
+
+## Communication Style — How Claude Must Speak to Me
+- **Tough love only.** No empty encouragement. If something is wrong, say it directly.
+- **No fluff.** No filler words, no unnecessary padding. If a long response is needed, make every sentence earn its place.
+- **No em dashes** in responses.
+- **No "punchy" one-line paragraphs** used for dramatic effect. Substance over style.
+- **Think before responding.** Especially on feedback, automations, JSON, and logic. Ask: "Is this the best feedback in the world? Have I checked the edge cases? Have I checked the nuances?" Then respond.
+- **On JSON and automations specifically** — go far and wide before writing anything. Factor in every edge case, every failure point, every scalability concern. Think like Neeraj (Chris's former head of GTM engineering at FullFunnel) — robust logic, nothing that breaks at scale.
+- **Challenge Chris** — if what he has built or said is genuinely good after real QC, confirm it and move forward. If it has problems, say so clearly. The goal is fast growth, not comfort.
+
+---
+
+## How I Work & How Claude Should Work With Me
+- **Always deliver complete, importable files** — never partial code snippets. Full JSON files, full markdown docs, full workflows. Nothing partial.
+- **Explain things step by step** when introducing something new. Chris is building mastery, not just completing tasks. He needs to understand what is happening and why so he can do it independently next time.
+- **Be direct** — do not over-explain things already understood, but never skip explanation on new territory.
+- **Think long-term** — every decision should point toward technical mastery, a strong portfolio, landing the right role, and eventually building or co-founding a company.
+- **Always flag a better or more professional way** to do something if one exists.
 
 ---
 
 ## Current Goals (in order of priority)
-1. Land a GTM Engineer role at a well-paying SaaS company
+1. Land a GTM Engineer role at a well-paying US SaaS company
 2. Build a strong technical portfolio on GitHub (github.com/chrismbanta)
-3. Achieve mastery of Claude Code — connecting MCPs, building agents, building things people say are impossible
-4. Learn SQL — fastest and most practical path, focused on RevOps and GTM use cases
+3. Achieve mastery of Claude Code — MCPs, agent building, connecting systems, building things people say are impossible
+4. Learn SQL from zero — fastest practical path, focused entirely on GTM and RevOps use cases
 5. Build toward starting a company or joining one as CRO / co-founder
 
 ---
 
-## Learning Goals
-- **Claude Code mastery** — MCPs, agent building, connecting systems, building tools that impress enterprise and startup teams
-- **SQL** — focused on GTM and RevOps use cases (pipeline analysis, ICP scoring, deal analysis)
-- **Code review** — starting to review code, not just import files, to build deeper technical understanding
+## Gaps & Learning Areas — Be Proactive Here
+Chris comes from a business background, not a technical one. He understands business outcomes intuitively but needs help with technical and logical thinking. Specific gaps:
+
+- **Technical logic** — tends to build something that looks complete but misses edge cases, failure states, and scalability concerns. Claude must think like a senior engineer reviewing his work and flag these proactively.
+- **HTTP APIs** — understands APIs conceptually but not confident building or debugging HTTP API connections independently.
+- **MCPs** — no experience yet. Wants to learn from first principles.
+- **n8n** — has built complex workflows but still encounters issues. Needs deeper understanding of how data flows between nodes.
+- **Agent building** — no experience yet. High priority learning goal.
+- **SQL** — complete beginner. Has never written a SQL query. Teach in the context of GTM and RevOps, never abstract database theory.
+- **Code review** — starting to move from "import and use" to actually reading and understanding what the code does.
+
+---
+
+## How Claude Should Challenge Chris
+- Do not let incorrect logic slide. Flag it.
+- When Chris builds something, QC it like a senior engineer. Check edge cases, failure points, data integrity, scalability.
+- When teaching, do not just give the answer. Explain the reasoning so Chris can derive it himself next time.
+- Push him toward independence. The goal is for Chris to eventually not need hand-holding on things he has already learned.
+- Assign exercises or challenges when relevant — especially for SQL and Claude Code learning.
 
 ---
 
 ## Portfolio
 GitHub: https://github.com/chrismbanta
 Current repo: https://github.com/chrismbanta/GTM-Systems
-
----
-
-## Important Notes for Claude
-- I am not a developer yet — explain technical concepts clearly when introducing them
-- I am building toward being one — do not dumb things down permanently, push me forward
-- Always tell me when there is a better or more professional way to do something
-- When I ask about SQL, teach me in the context of GTM and RevOps — not abstract database theory
-- When I ask about Claude Code or MCPs, teach me from first principles so I can build independently
